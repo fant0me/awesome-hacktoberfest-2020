@@ -1,4 +1,4 @@
-# Awesome Hacktoberfest 2020 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# _Awesome Hacktoberfest 2020_ [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > We present a curated list of awesome Hacktoberfest 2020 repositories. If you enjoyed this resource, please leave a star :star: to support this project! :sparkles:
 
@@ -6,7 +6,7 @@
 
 > Don't forget to [read our contributing guide](https://github.com/OtacilioN/awesome-hacktoberfest-2020/blob/master/CONTRIBUTING.md)
 
-## Contents
+## _Contents_
 
 - [Repositories Supporting First Timers](#repositories-supporting-first-timers)
 - [Repositories Coding for Beginners](#repositories-coding-for-beginners)
@@ -14,7 +14,7 @@
 - [Cli Tools](#cli-tools)
 - [Meetups and Events](#meetups-and-events)
 
-## Repositories Supporting First-Timers
+## _Repositories Supporting First-Timers_
 - [a11yfirst](https://github.com/tpage99/a11yfirst)
 - [Another First PR](https://github.com/Joonsang1994/YourFirstPR)
 - [Appwrite](https://github.com/appwrite/appwrite)
@@ -49,7 +49,7 @@
 - [Text Adventure Game Collection](https://github.com/D4rk3l/text-adventure-hacktoberfest)
 - [useful-dev-tools](https://github.com/lucasnaja/useful-dev-tools)
 
-## Repositories Coding for Beginners
+## _Repositories Coding for Beginners_
 
 - [A fun website build to celebrate open source collaboration](https://github.com/Evie-Skinner18/happy_hacktoberfest_19)
 - [Algorithms written in different programming languages](https://github.com/ZoranPandovski/al-go-rithms)
@@ -76,7 +76,7 @@
 - [TemplateBuddy](https://github.com/Documentive/TemplateBuddy)
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 
-## Repositories for intermediate/Advanced Coders
+## _Repositories for intermediate/Advanced Coders_
 
 - [GCommit](https://github.com/jooaodanieel/GCommit)
 - [Home Automation](https://github.com/home-assistant)
@@ -84,7 +84,7 @@
 - [Vue-Playground](https://github.com/runyasak/vue-playground)
 - [simC](https://github.com/cimplec/sim-c)
 
-## Guides and Resources
+## _Guides and Resources_
 
 - [A First-Timers Guide to an Open Source Project](https://auth0.com/blog/a-first-timers-guide-to-an-open-source-project/)
 - [Github Pages](https://pages.github.com/)
@@ -92,15 +92,15 @@
 - [Hacktoberfest Tracker Mobile App](https://play.google.com/store/apps/details?id=com.hacktoberfesttrackerapp) [github](https://github.com/KeyboardNinjas/hacktoberfest-mobileapp)
 - [HacktoberfestSwagList - List of companies giving out swag for participating in Hacktoberfest](https://hacktoberfestswaglist.com/)
 
-## CLI Tools
+## _CLI Tools_
 
 - [hacktoberfest - npm](https://github.com/ziyaddin/hacktoberfest)
 
-## Meetups and Events
+## _Meetups and Events_
 
 See all meetups and events [here](https://hacktoberfest.digitalocean.com/events)
 
-## License
+## _License_
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
